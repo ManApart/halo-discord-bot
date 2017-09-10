@@ -3,11 +3,13 @@ package rak.discord.haloCustom.commands.command;
 import net.dv8tion.jda.core.Permission;
 import net.dv8tion.jda.core.events.message.MessageReceivedEvent;
 import rak.discord.haloCustom.managers.GameStatsManager;
+import rak.halo.stats.haloStats.model.enums.Platform;
 
 public class LastGameStatsCommand  implements ICommand {
 
-	private static final String INVOKE_TEXT = "lastScore";
-	private static final String HELP = "USAGE: ~!lastScore <gamertag>";
+	private static final String INVOKE_TEXT = "lastGame";
+	private static final String HELP = "USAGE: ~!lastGame <gamertag> <platform>"
+			+ "\n(platform is either 'pc' or 'xbox'. Defaults to pc.)";
 	
 	@Override
 	public boolean canBeCalled(String[] args, MessageReceivedEvent event) {
@@ -19,8 +21,9 @@ public class LastGameStatsCommand  implements ICommand {
 	public void action(String[] args, MessageReceivedEvent event) {
 		GameStatsManager manager = new GameStatsManager();
 		String gamertag = args.length > 0 ? args[0] : null;
+		Platform platform = args.length > 1 ? Platform.findValue(args[1]) : null;
 		
-		String message = manager.getLastGameStatsMessage(gamertag);
+		String message = manager.getLastGameStatsMessage(gamertag, platform);
 		
 		//Split large messages
 		if (message.length() > 2000){

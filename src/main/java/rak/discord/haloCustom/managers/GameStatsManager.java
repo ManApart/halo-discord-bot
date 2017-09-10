@@ -12,18 +12,23 @@ public class GameStatsManager {
 	
 	private HaloStatsManager manager = new HaloStatsManager();
 	
-	public String getLastGameStatsMessage(String gamertag) {
+	public String getLastGameStatsMessage(String gamertag, Platform platform) {
 		String message = DEFAULT_ERROR_MESSAGE;
 		
-		//default a gamertag
 		gamertag = (gamertag == null) ? DEFAULT_GAMERTAG : gamertag;
+		platform = (platform == null) ? Platform.PC : platform;
 		
-		CarnageReport report = manager.getLatestMatchResult(gamertag, Platform.PC);
+		
+		CarnageReport report = manager.getLatestMatchResult(gamertag, platform);
 		message = generateMessage(report);
 		return message;
 	}
 
 	private String generateMessage(CarnageReport report) {
+		if (report == null){
+			return "No results";
+		}
+		
 		String results = " Player "+ PADDING + " Kills "+ PADDING + " Assists "+ PADDING + " Deaths ";
 		for (PlayerStats player : report.getPlayerStats()){
 			results += "\n" +getPlayerLine(player);
