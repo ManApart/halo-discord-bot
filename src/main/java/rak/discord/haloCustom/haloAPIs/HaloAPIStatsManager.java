@@ -10,7 +10,7 @@ import rak.discord.haloCustom.haloAPIs.model.stats.playerMatches.MatchId;
 
 public class HaloAPIStatsManager {
 	public static final String PRIMARY_KEY = "170f6ad95dd740689eedc31707ccf2c2";
-	private static final String BASE_URL = "https://www.haloapi.com/stats/h5/";
+	private static final String BASE_URL = "https://www.haloapi.com/stats/h5pc/";
 	
 	public String getMatchesForPlayer(String gamerTag) {
 		String url = BASE_URL + "players/" + gamerTag + "/matches";

@@ -11,7 +11,7 @@ import net.dv8tion.jda.core.exceptions.RateLimitedException;
 import rak.discord.haloCustom.botMessages.MessageCurator;
 import rak.discord.haloCustom.commands.CommandContainer;
 import rak.discord.haloCustom.commands.CommandManager;
-import rak.discord.haloCustom.commands.ICommand;
+import rak.discord.haloCustom.commands.command.ICommand;
 
 public class BotCore {
 	private JDA jda;

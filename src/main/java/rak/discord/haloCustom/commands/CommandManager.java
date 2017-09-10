@@ -3,6 +3,13 @@ package rak.discord.haloCustom.commands;
 import java.util.ArrayList;
 import java.util.HashMap;
 
+import rak.discord.haloCustom.commands.command.ClearConsoleCommand;
+import rak.discord.haloCustom.commands.command.HelpCommand;
+import rak.discord.haloCustom.commands.command.ICommand;
+import rak.discord.haloCustom.commands.command.LastGameStatsCommand;
+import rak.discord.haloCustom.commands.command.PingCommand;
+import rak.discord.haloCustom.commands.command.SetTopicGroupCommand;
+
 public class CommandManager {
 	private HashMap<String, ICommand> commands ;
 	
