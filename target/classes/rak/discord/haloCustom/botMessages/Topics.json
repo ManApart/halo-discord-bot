@@ -1,0 +1,39 @@
+[
+	{
+		"Topic": "Helioskrills",
+		"Statements" : [
+			"Helioskrills is infection on it's head. Zombies have guns and survivors have stealth. Suvivors must assasinate zombies or hit them in the back.",
+			"Zombies are slow. Stick together and watch the corners.",
+			"As a zombie you'll need to explore the map for more ammunition."
+		]
+	},
+	{
+		"Topic": "BlackSite",
+		"Statements" : [
+			"After we lost Argent Moon, the experiments were restarted at this Oni Blacksite.",
+			"In Blacksite, switches can barricade rooms.",
+			"Use vents to sneak into barricaded rooms, or escape tricky situations."
+		]
+	},
+	{
+		"Topic": "Meditation",
+		"Statements" : [
+			"On the mainland of Qivro, this once beautiful temple has forgotten even its own name.",
+			"Use the launch pipes to quickly ascend to the top of the map."
+		]
+	},
+	{
+		"Topic": "Contact",
+		"Statements" : [
+			"For more Halo Customs, join the Helioskrill clan at https://www.halowaypoint.com/en-us/spartan-companies/helioskrills",
+			"You can also join our xbox group: 'Followers of Melian'",
+			"For more stuff in general, join us on facebook at https://www.facebook.com/IceburgModding/"
+		]
+	},
+	{
+		"Topic": "Discord",
+		"Statements" : [
+			"For gameplay explination and party chat, join us on Discord at https://discord.gg/fRDRDCj"
+		]
+	}
+]

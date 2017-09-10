@@ -1,0 +1,25 @@
+[
+	{
+		"TopicGroup": "BlackSite",
+		"SpeakAloud": true,
+		"Topics" : [
+			"Helioskrills",
+			"BlackSite"
+		]
+	},
+	{
+		"TopicGroup": "Meditation",
+		"SpeakAloud": true,
+		"Topics" : [
+			"Helioskrills",
+			"Meditation"
+		]
+	},
+	{
+		"TopicGroup": "Contact",
+		"SpeakAloud": false,
+		"Topics" : [
+			"Contact"
+		]
+	}
+]

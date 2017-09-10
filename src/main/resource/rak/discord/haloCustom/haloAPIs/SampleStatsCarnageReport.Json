@@ -1,0 +1,583 @@
+{
+  "PlayerStats": [
+    {
+      "KilledOpponentDetails": [
+        {
+          "GamerTag": "Danceparty15",
+          "TotalKills": 1
+        }
+      ],
+      "KilledByOpponentDetails": [
+        {
+          "GamerTag": "Danceparty15",
+          "TotalKills": 1
+        },
+        {
+          "GamerTag": "Iceburg 33308",
+          "TotalKills": 1
+        }
+      ],
+      "FlexibleStats": {
+        "MedalStatCounts": [
+          {
+            "Id": "af99ba4c-1dac-4163-afdb-f0ddc9a7238e",
+            "Count": 0
+          }
+        ],
+        "ImpulseStatCounts": [
+          {
+            "Id": "ba1b0043-3a1e-4894-a04f-f8d889103ec5",
+            "Count": 15
+          },
+          {
+            "Id": "4d756df8-b961-4391-bb9c-9cd6c483c66e",
+            "Count": 0
+          },
+          {
+            "Id": "9c948c31-a141-41ff-8641-4ee303a2f9d9",
+            "Count": 1
+          },
+          {
+            "Id": "92dc4d2d-abab-49c0-bb68-ab203f6906e3",
+            "Count": 71
+          },
+          {
+            "Id": "7dcd7306-f905-401a-97f2-345d4b25170a",
+            "Count": 0
+          },
+          {
+            "Id": "ac2de671-1c13-49e5-9d7d-90dff977b0eb",
+            "Count": 0
+          },
+          {
+            "Id": "aaf0d653-f7fe-42cc-bf0e-0ad2c78feb5f",
+            "Count": 0
+          }
+        ],
+        "MedalTimelapses": [],
+        "ImpulseTimelapses": []
+      },
+      "Player": {
+        "Gamertag": "ALegionOfAngels",
+        "Xuid": null
+      },
+      "TeamId": 0,
+      "Rank": 3,
+      "DNF": true,
+      "AvgLifeTimeOfPlayer": "PT25.7679098S",
+      "PreMatchRatings": null,
+      "PostMatchRatings": null,
+      "PlayerScore": 15,
+      "GameEndStatus": 0,
+      "TotalKills": 1,
+      "TotalHeadshots": 0,
+      "TotalWeaponDamage": 45.0,
+      "TotalShotsFired": 0,
+      "TotalShotsLanded": 0,
+      "WeaponWithMostKills": {
+        "WeaponId": {
+          "StockId": 2650887244,
+          "Attachments": []
+        },
+        "TotalShotsFired": 0,
+        "TotalShotsLanded": 0,
+        "TotalHeadshots": 0,
+        "TotalKills": 1,
+        "TotalDamageDealt": 45.0,
+        "TotalPossessionTime": "PT1M12.8667S"
+      },
+      "TotalMeleeKills": 0,
+      "TotalMeleeDamage": 0.0,
+      "TotalAssassinations": 0,
+      "TotalGroundPoundKills": 0,
+      "TotalGroundPoundDamage": 0.0,
+      "TotalShoulderBashKills": 0,
+      "TotalShoulderBashDamage": 0.0,
+      "TotalGrenadeDamage": 0.0,
+      "TotalPowerWeaponKills": 1,
+      "TotalPowerWeaponDamage": 45.0,
+      "TotalPowerWeaponGrabs": 0,
+      "TotalPowerWeaponPossessionTime": "PT1M12.8667S",
+      "TotalDeaths": 2,
+      "TotalAssists": 0,
+      "TotalGamesCompleted": 0,
+      "TotalGamesWon": 0,
+      "TotalGamesLost": 0,
+      "TotalGamesTied": 0,
+      "TotalTimePlayed": "PT2M56.1611283S",
+      "TotalGrenadeKills": 0,
+      "MedalAwards": [],
+      "DestroyedEnemyVehicles": [],
+      "EnemyKills": [],
+      "WeaponStats": [
+        {
+          "WeaponId": {
+            "StockId": 2650887244,
+            "Attachments": []
+          },
+          "TotalShotsFired": 0,
+          "TotalShotsLanded": 0,
+          "TotalHeadshots": 0,
+          "TotalKills": 1,
+          "TotalDamageDealt": 45.0,
+          "TotalPossessionTime": "PT1M12.8667S"
+        },
+        {
+          "WeaponId": {
+            "StockId": 4096745987,
+            "Attachments": []
+          },
+          "TotalShotsFired": 0,
+          "TotalShotsLanded": 0,
+          "TotalHeadshots": 0,
+          "TotalKills": 0,
+          "TotalDamageDealt": 0.0,
+          "TotalPossessionTime": "PT29.35S"
+        }
+      ],
+      "Impulses": [
+        {
+          "Id": 588422610,
+          "Count": 71
+        },
+        {
+          "Id": 2192206750,
+          "Count": 1
+        }
+      ],
+      "TotalSpartanKills": 1,
+      "FastestMatchWin": null
+    },
+    {
+      "KilledOpponentDetails": [
+        {
+          "GamerTag": "Danceparty15",
+          "TotalKills": 2
+        },
+        {
+          "GamerTag": "ALegionOfAngels",
+          "TotalKills": 1
+        }
+      ],
+      "KilledByOpponentDetails": [
+        {
+          "GamerTag": "Danceparty15",
+          "TotalKills": 2
+        }
+      ],
+      "FlexibleStats": {
+        "MedalStatCounts": [
+          {
+            "Id": "af99ba4c-1dac-4163-afdb-f0ddc9a7238e",
+            "Count": 0
+          }
+        ],
+        "ImpulseStatCounts": [
+          {
+            "Id": "ba1b0043-3a1e-4894-a04f-f8d889103ec5",
+            "Count": 35
+          },
+          {
+            "Id": "4d756df8-b961-4391-bb9c-9cd6c483c66e",
+            "Count": 1
+          },
+          {
+            "Id": "9c948c31-a141-41ff-8641-4ee303a2f9d9",
+            "Count": 2
+          },
+          {
+            "Id": "92dc4d2d-abab-49c0-bb68-ab203f6906e3",
+            "Count": 127
+          },
+          {
+            "Id": "7dcd7306-f905-401a-97f2-345d4b25170a",
+            "Count": 0
+          },
+          {
+            "Id": "ac2de671-1c13-49e5-9d7d-90dff977b0eb",
+            "Count": 0
+          },
+          {
+            "Id": "aaf0d653-f7fe-42cc-bf0e-0ad2c78feb5f",
+            "Count": 0
+          }
+        ],
+        "MedalTimelapses": [],
+        "ImpulseTimelapses": []
+      },
+      "Player": {
+        "Gamertag": "Iceburg 33308",
+        "Xuid": null
+      },
+      "TeamId": 1,
+      "Rank": 1,
+      "DNF": false,
+      "AvgLifeTimeOfPlayer": "PT1M10.0373578S",
+      "PreMatchRatings": null,
+      "PostMatchRatings": null,
+      "PlayerScore": 35,
+      "GameEndStatus": 3,
+      "TotalKills": 3,
+      "TotalHeadshots": 1,
+      "TotalWeaponDamage": 187.5,
+      "TotalShotsFired": 14,
+      "TotalShotsLanded": 4,
+      "WeaponWithMostKills": {
+        "WeaponId": {
+          "StockId": 2650887244,
+          "Attachments": []
+        },
+        "TotalShotsFired": 0,
+        "TotalShotsLanded": 0,
+        "TotalHeadshots": 0,
+        "TotalKills": 2,
+        "TotalDamageDealt": 90.0,
+        "TotalPossessionTime": "PT1M48.7167S"
+      },
+      "TotalMeleeKills": 0,
+      "TotalMeleeDamage": 0.0,
+      "TotalAssassinations": 0,
+      "TotalGroundPoundKills": 0,
+      "TotalGroundPoundDamage": 0.0,
+      "TotalShoulderBashKills": 0,
+      "TotalShoulderBashDamage": 0.0,
+      "TotalGrenadeDamage": 0.0,
+      "TotalPowerWeaponKills": 2,
+      "TotalPowerWeaponDamage": 90.0,
+      "TotalPowerWeaponGrabs": 0,
+      "TotalPowerWeaponPossessionTime": "PT1M48.7167S",
+      "TotalDeaths": 2,
+      "TotalAssists": 0,
+      "TotalGamesCompleted": 0,
+      "TotalGamesWon": 0,
+      "TotalGamesLost": 0,
+      "TotalGamesTied": 0,
+      "TotalTimePlayed": "PT4M40.6097961S",
+      "TotalGrenadeKills": 0,
+      "MedalAwards": [
+        {
+          "MedalId": 3001183151,
+          "Count": 2
+        },
+        {
+          "MedalId": 824733727,
+          "Count": 1
+        },
+        {
+          "MedalId": 1096398218,
+          "Count": 1
+        },
+        {
+          "MedalId": 3261908037,
+          "Count": 1
+        }
+      ],
+      "DestroyedEnemyVehicles": [],
+      "EnemyKills": [],
+      "WeaponStats": [
+        {
+          "WeaponId": {
+            "StockId": 2650887244,
+            "Attachments": []
+          },
+          "TotalShotsFired": 0,
+          "TotalShotsLanded": 0,
+          "TotalHeadshots": 0,
+          "TotalKills": 2,
+          "TotalDamageDealt": 90.0,
+          "TotalPossessionTime": "PT1M48.7167S"
+        },
+        {
+          "WeaponId": {
+            "StockId": 4096745987,
+            "Attachments": []
+          },
+          "TotalShotsFired": 14,
+          "TotalShotsLanded": 4,
+          "TotalHeadshots": 1,
+          "TotalKills": 1,
+          "TotalDamageDealt": 97.5,
+          "TotalPossessionTime": "PT1M19.2S"
+        }
+      ],
+      "Impulses": [
+        {
+          "Id": 588422610,
+          "Count": 127
+        },
+        {
+          "Id": 2192206750,
+          "Count": 2
+        },
+        {
+          "Id": 3060032974,
+          "Count": 2
+        },
+        {
+          "Id": 365321763,
+          "Count": 1
+        }
+      ],
+      "TotalSpartanKills": 3,
+      "FastestMatchWin": null
+    },
+    {
+      "KilledOpponentDetails": [
+        {
+          "GamerTag": "ALegionOfAngels",
+          "TotalKills": 1
+        },
+        {
+          "GamerTag": "Iceburg 33308",
+          "TotalKills": 2
+        }
+      ],
+      "KilledByOpponentDetails": [
+        {
+          "GamerTag": "Iceburg 33308",
+          "TotalKills": 2
+        },
+        {
+          "GamerTag": "ALegionOfAngels",
+          "TotalKills": 1
+        }
+      ],
+      "FlexibleStats": {
+        "MedalStatCounts": [
+          {
+            "Id": "af99ba4c-1dac-4163-afdb-f0ddc9a7238e",
+            "Count": 0
+          }
+        ],
+        "ImpulseStatCounts": [
+          {
+            "Id": "ba1b0043-3a1e-4894-a04f-f8d889103ec5",
+            "Count": 15
+          },
+          {
+            "Id": "4d756df8-b961-4391-bb9c-9cd6c483c66e",
+            "Count": 3
+          },
+          {
+            "Id": "9c948c31-a141-41ff-8641-4ee303a2f9d9",
+            "Count": 0
+          },
+          {
+            "Id": "92dc4d2d-abab-49c0-bb68-ab203f6906e3",
+            "Count": 114
+          },
+          {
+            "Id": "7dcd7306-f905-401a-97f2-345d4b25170a",
+            "Count": 0
+          },
+          {
+            "Id": "ac2de671-1c13-49e5-9d7d-90dff977b0eb",
+            "Count": 0
+          },
+          {
+            "Id": "aaf0d653-f7fe-42cc-bf0e-0ad2c78feb5f",
+            "Count": 0
+          }
+        ],
+        "MedalTimelapses": [],
+        "ImpulseTimelapses": []
+      },
+      "Player": {
+        "Gamertag": "Danceparty15",
+        "Xuid": null
+      },
+      "TeamId": 2,
+      "Rank": 2,
+      "DNF": false,
+      "AvgLifeTimeOfPlayer": "PT40.0217556S",
+      "PreMatchRatings": null,
+      "PostMatchRatings": null,
+      "PlayerScore": 15,
+      "GameEndStatus": 1,
+      "TotalKills": 3,
+      "TotalHeadshots": 3,
+      "TotalWeaponDamage": 147.711763381958,
+      "TotalShotsFired": 5,
+      "TotalShotsLanded": 2,
+      "WeaponWithMostKills": {
+        "WeaponId": {
+          "StockId": 4096745987,
+          "Attachments": []
+        },
+        "TotalShotsFired": 5,
+        "TotalShotsLanded": 2,
+        "TotalHeadshots": 3,
+        "TotalKills": 3,
+        "TotalDamageDealt": 90.0,
+        "TotalPossessionTime": "PT1M1.1S"
+      },
+      "TotalMeleeKills": 0,
+      "TotalMeleeDamage": 0.0,
+      "TotalAssassinations": 0,
+      "TotalGroundPoundKills": 0,
+      "TotalGroundPoundDamage": 0.0,
+      "TotalShoulderBashKills": 0,
+      "TotalShoulderBashDamage": 0.0,
+      "TotalGrenadeDamage": 0.0,
+      "TotalPowerWeaponKills": 0,
+      "TotalPowerWeaponDamage": 57.711763381958008,
+      "TotalPowerWeaponGrabs": 0,
+      "TotalPowerWeaponPossessionTime": "PT1M56.7834S",
+      "TotalDeaths": 3,
+      "TotalAssists": 0,
+      "TotalGamesCompleted": 0,
+      "TotalGamesWon": 0,
+      "TotalGamesLost": 0,
+      "TotalGamesTied": 0,
+      "TotalTimePlayed": "PT4M40.6097961S",
+      "TotalGrenadeKills": 0,
+      "MedalAwards": [
+        {
+          "MedalId": 1096398218,
+          "Count": 3
+        },
+        {
+          "MedalId": 3261908037,
+          "Count": 3
+        },
+        {
+          "MedalId": 2717858990,
+          "Count": 1
+        },
+        {
+          "MedalId": 3001183151,
+          "Count": 1
+        }
+      ],
+      "DestroyedEnemyVehicles": [],
+      "EnemyKills": [],
+      "WeaponStats": [
+        {
+          "WeaponId": {
+            "StockId": 2650887244,
+            "Attachments": []
+          },
+          "TotalShotsFired": 0,
+          "TotalShotsLanded": 0,
+          "TotalHeadshots": 0,
+          "TotalKills": 0,
+          "TotalDamageDealt": 57.711763381958008,
+          "TotalPossessionTime": "PT1M56.7834S"
+        },
+        {
+          "WeaponId": {
+            "StockId": 4096745987,
+            "Attachments": []
+          },
+          "TotalShotsFired": 5,
+          "TotalShotsLanded": 2,
+          "TotalHeadshots": 3,
+          "TotalKills": 3,
+          "TotalDamageDealt": 90.0,
+          "TotalPossessionTime": "PT1M1.1S"
+        }
+      ],
+      "Impulses": [
+        {
+          "Id": 588422610,
+          "Count": 114
+        },
+        {
+          "Id": 365321763,
+          "Count": 3
+        }
+      ],
+      "TotalSpartanKills": 3,
+      "FastestMatchWin": null
+    }
+  ],
+  "TeamStats": [
+    {
+      "TeamId": 0,
+      "Score": 15,
+      "Rank": 3,
+      "RoundStats": [
+        {
+          "RoundNumber": 1,
+          "Rank": 2,
+          "Score": 15
+        },
+        {
+          "RoundNumber": 2,
+          "Rank": 3,
+          "Score": 15
+        },
+        {
+          "RoundNumber": 3,
+          "Rank": 3,
+          "Score": 15
+        }
+      ]
+    },
+    {
+      "TeamId": 1,
+      "Score": 35,
+      "Rank": 1,
+      "RoundStats": [
+        {
+          "RoundNumber": 1,
+          "Rank": 1,
+          "Score": 30
+        },
+        {
+          "RoundNumber": 2,
+          "Rank": 1,
+          "Score": 35
+        },
+        {
+          "RoundNumber": 3,
+          "Rank": 2,
+          "Score": 35
+        }
+      ]
+    },
+    {
+      "TeamId": 2,
+      "Score": 15,
+      "Rank": 2,
+      "RoundStats": [
+        {
+          "RoundNumber": 1,
+          "Rank": 3,
+          "Score": 10
+        },
+        {
+          "RoundNumber": 2,
+          "Rank": 2,
+          "Score": 10
+        },
+        {
+          "RoundNumber": 3,
+          "Rank": 1,
+          "Score": 15
+        }
+      ]
+    }
+  ],
+  "IsMatchOver": true,
+  "TotalDuration": "PT4M41.0417997S",
+  "MapVariantId": "42c7f68a-7a67-4046-895e-3cb12c36c335",
+  "GameVariantId": "cfdeb20b-e467-45e9-8610-bdde7d59bed4",
+  "PlaylistId": "c54bd13d-fbf0-4104-a158-85a77ac46af7",
+  "MapId": "b963a5ed-a8d0-4475-a47e-67430c56b3bd",
+  "GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+  "IsTeamGame": false,
+  "SeasonId": null,
+  "GameVariantResourceId": {
+    "ResourceType": 2,
+    "ResourceId": "cfdeb20b-e467-45e9-8610-bdde7d59bed4",
+    "OwnerType": 1,
+    "Owner": "Iceburg 33308"
+  },
+  "MapVariantResourceId": {
+    "ResourceType": 3,
+    "ResourceId": "42c7f68a-7a67-4046-895e-3cb12c36c335",
+    "OwnerType": 1,
+    "Owner": "Iceburg 33308"
+  }
+}

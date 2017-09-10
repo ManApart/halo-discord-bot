@@ -1,0 +1,2233 @@
+{
+	"Start": 0,
+	"Count": 25,
+	"ResultCount": 25,
+	"Results": [
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/acb5bbe3-de7b-44f3-911a-8afa377807bb",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/acb5bbe3-de7b-44f3-911a-8afa377807bb",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "acb5bbe3-de7b-44f3-911a-8afa377807bb",
+				"GameMode": 1
+			},
+			"HopperId": "780cc101-005c-4fca-8ce7-6f36d7156ffe",
+			"MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "d34c0810-e18f-4934-abf4-859c2962853c",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "65f033d2-1303-4748-bc26-ef62c38eced4",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "bc9276bd-b0fc-4e5c-ba55-07a62b099db8",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT9M22.5457032S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 100,
+					"Rank": 1
+				},
+				{
+					"Id": 0,
+					"Score": 88,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 2,
+					"Result": 3,
+					"TotalKills": 19,
+					"TotalDeaths": 8,
+					"TotalAssists": 7,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/4e9de556-b8ed-43ac-a111-2c36261e01dd",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/4e9de556-b8ed-43ac-a111-2c36261e01dd",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "4e9de556-b8ed-43ac-a111-2c36261e01dd",
+				"GameMode": 1
+			},
+			"HopperId": "52632154-39c4-43ae-8e8a-9bb339e6eef3",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "b7e9e55b-0f54-4287-82f6-15c12a04023f",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "a5c8c223-2418-42cf-8980-e5ceddf12232",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "fcf969b1-8c6c-4456-bdf5-e6721d7c46cb",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT8M49.2401374S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 1931,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 550,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 16,
+					"TotalDeaths": 3,
+					"TotalAssists": 5,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/c1327928-c68e-4811-8235-dfff2ffcb0da",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/c1327928-c68e-4811-8235-dfff2ffcb0da",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "c1327928-c68e-4811-8235-dfff2ffcb0da",
+				"GameMode": 1
+			},
+			"HopperId": "f0c9ef9a-48bd-4b24-9db3-2c76b4e23450",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "e57fabca-f6aa-4635-a2fc-50b4a2e56e89",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "2791f46f-73dd-4100-875b-92c804faf0f6",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT7M14.8842277S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 75,
+					"Rank": 1
+				},
+				{
+					"Id": 0,
+					"Score": 65,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 9,
+					"Result": 1,
+					"TotalKills": 12,
+					"TotalDeaths": 11,
+					"TotalAssists": 3,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/d6fdedb7-bacf-4d29-912f-44f6755ae330",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/d6fdedb7-bacf-4d29-912f-44f6755ae330",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "d6fdedb7-bacf-4d29-912f-44f6755ae330",
+				"GameMode": 1
+			},
+			"HopperId": "52632154-39c4-43ae-8e8a-9bb339e6eef3",
+			"MapId": "c7b7baf0-f206-11e4-ae9a-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "1203bd9a-da15-454b-9bcc-f94b509ca26e",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "a5c8c223-2418-42cf-8980-e5ceddf12232",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "8ece273e-ad86-4c85-8e89-42d1e1471a7f",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT5M18.8889642S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 58,
+					"Rank": 2
+				},
+				{
+					"Id": 1,
+					"Score": 150,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 4,
+					"Result": 3,
+					"TotalKills": 14,
+					"TotalDeaths": 4,
+					"TotalAssists": 4,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/75f91ee9-79cf-402f-95ad-9c40244414fb",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/75f91ee9-79cf-402f-95ad-9c40244414fb",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "75f91ee9-79cf-402f-95ad-9c40244414fb",
+				"GameMode": 1
+			},
+			"HopperId": "52632154-39c4-43ae-8e8a-9bb339e6eef3",
+			"MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "d86d657a-6166-4f53-8be8-b23c0c6753dd",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "a5c8c223-2418-42cf-8980-e5ceddf12232",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "41846da8-b873-48b2-8347-6a6f2f7b276f",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT6M34.3960977S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 3,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 0,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 5,
+					"Result": 1,
+					"TotalKills": 3,
+					"TotalDeaths": 5,
+					"TotalAssists": 2,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/113f061a-e8f8-409f-819f-9f9081395876",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/113f061a-e8f8-409f-819f-9f9081395876",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "113f061a-e8f8-409f-819f-9f9081395876",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "a1255f04-c47b-4e38-afef-b624b042fbe5",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "706c4124-4ae9-4244-968f-9d8493733995",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT11M40.7419665S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 160,
+					"Rank": 2
+				},
+				{
+					"Id": 1,
+					"Score": 0,
+					"Rank": 10
+				},
+				{
+					"Id": 2,
+					"Score": 130,
+					"Rank": 3
+				},
+				{
+					"Id": 3,
+					"Score": 115,
+					"Rank": 4
+				},
+				{
+					"Id": 4,
+					"Score": 70,
+					"Rank": 6
+				},
+				{
+					"Id": 5,
+					"Score": 5,
+					"Rank": 8
+				},
+				{
+					"Id": 6,
+					"Score": 210,
+					"Rank": 1
+				},
+				{
+					"Id": 7,
+					"Score": 30,
+					"Rank": 11
+				},
+				{
+					"Id": 8,
+					"Score": 80,
+					"Rank": 5
+				},
+				{
+					"Id": 9,
+					"Score": 45,
+					"Rank": 7
+				},
+				{
+					"Id": 10,
+					"Score": 0,
+					"Rank": 9
+				},
+				{
+					"Id": 11,
+					"Score": 155,
+					"Rank": 12
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 6,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 31,
+					"TotalDeaths": 8,
+					"TotalAssists": 2,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/4f195140-ac26-4e11-a091-5c5c007bc6df",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/4f195140-ac26-4e11-a091-5c5c007bc6df",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "4f195140-ac26-4e11-a091-5c5c007bc6df",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "29c7a4a3-edc5-4271-a904-d3d70d345ba2",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "b2de205f-c17f-47d4-8169-ee63a226e612",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT8M32.4652803S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 80,
+					"Rank": 6
+				},
+				{
+					"Id": 1,
+					"Score": 130,
+					"Rank": 2
+				},
+				{
+					"Id": 2,
+					"Score": 40,
+					"Rank": 8
+				},
+				{
+					"Id": 3,
+					"Score": 115,
+					"Rank": 3
+				},
+				{
+					"Id": 4,
+					"Score": 30,
+					"Rank": 9
+				},
+				{
+					"Id": 5,
+					"Score": 195,
+					"Rank": 1
+				},
+				{
+					"Id": 6,
+					"Score": 45,
+					"Rank": 12
+				},
+				{
+					"Id": 7,
+					"Score": 60,
+					"Rank": 7
+				},
+				{
+					"Id": 8,
+					"Score": 0,
+					"Rank": 10
+				},
+				{
+					"Id": 9,
+					"Score": 85,
+					"Rank": 5
+				},
+				{
+					"Id": 10,
+					"Score": 0,
+					"Rank": 11
+				},
+				{
+					"Id": 11,
+					"Score": 95,
+					"Rank": 4
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 2,
+					"Result": 1,
+					"TotalKills": 17,
+					"TotalDeaths": 5,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/f778ab5b-4cb2-4f78-91bd-acf8552f462f",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/f778ab5b-4cb2-4f78-91bd-acf8552f462f",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "f778ab5b-4cb2-4f78-91bd-acf8552f462f",
+				"GameMode": 1
+			},
+			"HopperId": "780cc101-005c-4fca-8ce7-6f36d7156ffe",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "0d566c63-a5ed-496e-abf4-8400ea548395",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "65f033d2-1303-4748-bc26-ef62c38eced4",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "b0410df3-f533-4c36-bab0-0c9314b4e915",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT12M54.7781066S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 95,
+					"Rank": 2
+				},
+				{
+					"Id": 0,
+					"Score": 100,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 4,
+					"Result": 3,
+					"TotalKills": 19,
+					"TotalDeaths": 10,
+					"TotalAssists": 10,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/d9ecb9c0-ba7b-4c5a-807e-ddba5c9dbc6a",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/d9ecb9c0-ba7b-4c5a-807e-ddba5c9dbc6a",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "d9ecb9c0-ba7b-4c5a-807e-ddba5c9dbc6a",
+				"GameMode": 1
+			},
+			"HopperId": "780cc101-005c-4fca-8ce7-6f36d7156ffe",
+			"MapId": "c7805740-f206-11e4-982c-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "4d644ebe-6162-472f-b168-8fd779f12534",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "8d4a3dbc-ef7a-405e-862b-34093ff582fd",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "5bc931b7-a050-4cb6-b261-8adce95a0d9d",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT16M50.4663654S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 0,
+					"Rank": 2
+				},
+				{
+					"Id": 1,
+					"Score": 2,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 8,
+					"Result": 1,
+					"TotalKills": 31,
+					"TotalDeaths": 22,
+					"TotalAssists": 13,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/e25dcb4f-eca8-46ce-b8f2-18b9ad5d5f67",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/e25dcb4f-eca8-46ce-b8f2-18b9ad5d5f67",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "e25dcb4f-eca8-46ce-b8f2-18b9ad5d5f67",
+				"GameMode": 1
+			},
+			"HopperId": "f0c9ef9a-48bd-4b24-9db3-2c76b4e23450",
+			"MapId": "ca737f8f-f206-11e4-a7e2-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "622e78a3-de67-4826-b8fb-5fc2a2b1b980",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "2c52ec1d-8807-4bcd-91bd-264d1313b2ba",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT6M47.2833249S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 75,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 54,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 22,
+					"TotalDeaths": 13,
+					"TotalAssists": 3,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/31b9b4fc-f48a-4754-b51e-38ad4efc91ce",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/31b9b4fc-f48a-4754-b51e-38ad4efc91ce",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "31b9b4fc-f48a-4754-b51e-38ad4efc91ce",
+				"GameMode": 1
+			},
+			"HopperId": "819eb188-1a1c-48b4-9af3-283d2447ff6f",
+			"MapId": "cb914b9e-f206-11e4-b447-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "cb3b8bcc-065d-46db-a948-f514527af031",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "4109fd31-1f20-4893-b7cf-ae02d2f426b9",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT5M2.727848S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 50,
+					"Rank": 1
+				},
+				{
+					"Id": 0,
+					"Score": 33,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 5,
+					"Result": 3,
+					"TotalKills": 8,
+					"TotalDeaths": 8,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/9ac407df-09b2-4f5e-b329-3a297f963c1b",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/9ac407df-09b2-4f5e-b329-3a297f963c1b",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "9ac407df-09b2-4f5e-b329-3a297f963c1b",
+				"GameMode": 1
+			},
+			"HopperId": "cfe96a04-fbb8-4fd2-b266-83cf2a79e673",
+			"MapId": "cdb934b0-f206-11e4-8810-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "bf434c49-cb4a-4c47-8d9e-53bf95f6d75e",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "c53980f1-d296-416b-bcee-1230f875274c",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT8M45.2475121S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 50,
+					"Rank": 1
+				},
+				{
+					"Id": 2,
+					"Score": 37,
+					"Rank": 2
+				},
+				{
+					"Id": 0,
+					"Score": 13,
+					"Rank": 3
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 2,
+					"Result": 3,
+					"TotalKills": 12,
+					"TotalDeaths": 9,
+					"TotalAssists": 14,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/custom/matches/fbc1e385-3f86-4c21-9a7d-113fc49c3f82",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/fbc1e385-3f86-4c21-9a7d-113fc49c3f82",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "fbc1e385-3f86-4c21-9a7d-113fc49c3f82",
+				"GameMode": 3
+			},
+			"HopperId": null,
+			"MapId": "b963a5ed-a8d0-4475-a47e-67430c56b3bd",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "42c7f68a-7a67-4046-895e-3cb12c36c335",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "cfdeb20b-e467-45e9-8610-bdde7d59bed4",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"MatchDuration": "PT4M41.0417997S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 15,
+					"Rank": 3
+				},
+				{
+					"Id": 1,
+					"Score": 35,
+					"Rank": 1
+				},
+				{
+					"Id": 2,
+					"Score": 15,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 3,
+					"TotalDeaths": 2,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": null,
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/custom/matches/4313a402-4424-40e7-8d3f-1bcb1d7d9e8f",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/4313a402-4424-40e7-8d3f-1bcb1d7d9e8f",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "4313a402-4424-40e7-8d3f-1bcb1d7d9e8f",
+				"GameMode": 3
+			},
+			"HopperId": null,
+			"MapId": "d67fdcb9-6d9c-403e-960d-04202e19b244",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "02950598-b539-488c-8a57-5a144debafed",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "cfdeb20b-e467-45e9-8610-bdde7d59bed4",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"MatchDuration": "PT5M21.0684414S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 35,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 10,
+					"Rank": 2
+				},
+				{
+					"Id": 2,
+					"Score": 0,
+					"Rank": 3
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 2,
+					"Result": 1,
+					"TotalKills": 2,
+					"TotalDeaths": 3,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": null,
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/custom/matches/10e9385a-1cf0-4b45-a013-77db3ef941a1",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/10e9385a-1cf0-4b45-a013-77db3ef941a1",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "10e9385a-1cf0-4b45-a013-77db3ef941a1",
+				"GameMode": 3
+			},
+			"HopperId": null,
+			"MapId": "b963a5ed-a8d0-4475-a47e-67430c56b3bd",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "42c7f68a-7a67-4046-895e-3cb12c36c335",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "cfdeb20b-e467-45e9-8610-bdde7d59bed4",
+				"OwnerType": 1,
+				"Owner": "Iceburg 33308"
+			},
+			"MatchDuration": "PT6M36.010103S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 35,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 25,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 3,
+					"TotalDeaths": 3,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": null,
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/de544808-f9be-4348-9579-b64019bcfbb1",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/de544808-f9be-4348-9579-b64019bcfbb1",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "de544808-f9be-4348-9579-b64019bcfbb1",
+				"GameMode": 1
+			},
+			"HopperId": "f0c9ef9a-48bd-4b24-9db3-2c76b4e23450",
+			"MapId": "cdb934b0-f206-11e4-8810-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "a1daeff5-d60b-4842-9e22-019200e0b900",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "c8552659-5bd1-4fa8-872b-e7ec30aab783",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT5M58.9033883S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-27T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 75,
+					"Rank": 1
+				},
+				{
+					"Id": 0,
+					"Score": 38,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 0,
+					"Rank": 6,
+					"Result": 1,
+					"TotalKills": 11,
+					"TotalDeaths": 15,
+					"TotalAssists": 3,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/ba283818-7503-40f4-b329-ad829fa4ec84",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/ba283818-7503-40f4-b329-ad829fa4ec84",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "ba283818-7503-40f4-b329-ad829fa4ec84",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "dc9557ae-6499-4a75-9680-ec2c51f6efba",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "27b8c438-caac-4302-8019-098e71725497",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT10M32.0748976S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 30,
+					"Rank": 9
+				},
+				{
+					"Id": 1,
+					"Score": 100,
+					"Rank": 7
+				},
+				{
+					"Id": 2,
+					"Score": 100,
+					"Rank": 6
+				},
+				{
+					"Id": 3,
+					"Score": 105,
+					"Rank": 5
+				},
+				{
+					"Id": 4,
+					"Score": 145,
+					"Rank": 3
+				},
+				{
+					"Id": 5,
+					"Score": 120,
+					"Rank": 4
+				},
+				{
+					"Id": 6,
+					"Score": 150,
+					"Rank": 2
+				},
+				{
+					"Id": 7,
+					"Score": 160,
+					"Rank": 1
+				},
+				{
+					"Id": 8,
+					"Score": 10,
+					"Rank": 10
+				},
+				{
+					"Id": 9,
+					"Score": 85,
+					"Rank": 8
+				},
+				{
+					"Id": 10,
+					"Score": 15,
+					"Rank": 12
+				},
+				{
+					"Id": 11,
+					"Score": 10,
+					"Rank": 10
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 4,
+					"Rank": 3,
+					"Result": 1,
+					"TotalKills": 23,
+					"TotalDeaths": 9,
+					"TotalAssists": 4,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/55943f86-ed85-49b2-a0f8-ad8f068cb36e",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/55943f86-ed85-49b2-a0f8-ad8f068cb36e",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "55943f86-ed85-49b2-a0f8-ad8f068cb36e",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "9b21d113-cc6d-47bf-a816-271da2477090",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "f1fa0d28-7445-4901-acdb-fecabe4a524d",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT10M38.7017869S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 190,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 70,
+					"Rank": 5
+				},
+				{
+					"Id": 2,
+					"Score": 20,
+					"Rank": 11
+				},
+				{
+					"Id": 3,
+					"Score": 65,
+					"Rank": 6
+				},
+				{
+					"Id": 4,
+					"Score": 20,
+					"Rank": 10
+				},
+				{
+					"Id": 5,
+					"Score": 100,
+					"Rank": 2
+				},
+				{
+					"Id": 6,
+					"Score": 65,
+					"Rank": 7
+				},
+				{
+					"Id": 7,
+					"Score": 45,
+					"Rank": 8
+				},
+				{
+					"Id": 8,
+					"Score": 40,
+					"Rank": 9
+				},
+				{
+					"Id": 9,
+					"Score": 40,
+					"Rank": 12
+				},
+				{
+					"Id": 10,
+					"Score": 80,
+					"Rank": 4
+				},
+				{
+					"Id": 11,
+					"Score": 95,
+					"Rank": 3
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 11,
+					"Rank": 3,
+					"Result": 1,
+					"TotalKills": 14,
+					"TotalDeaths": 6,
+					"TotalAssists": 1,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/1a098d5c-89d6-42ee-ade6-b67222063e10",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/1a098d5c-89d6-42ee-ade6-b67222063e10",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "1a098d5c-89d6-42ee-ade6-b67222063e10",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "3be6bbac-934e-4fd9-93d6-b77fb461d2e3",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "dcee9685-6b66-43ab-97eb-11fa4ea19cc6",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT8M31.2597276S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 45,
+					"Rank": 7
+				},
+				{
+					"Id": 1,
+					"Score": 40,
+					"Rank": 8
+				},
+				{
+					"Id": 2,
+					"Score": 0,
+					"Rank": 11
+				},
+				{
+					"Id": 3,
+					"Score": 85,
+					"Rank": 4
+				},
+				{
+					"Id": 4,
+					"Score": 40,
+					"Rank": 8
+				},
+				{
+					"Id": 5,
+					"Score": 30,
+					"Rank": 10
+				},
+				{
+					"Id": 6,
+					"Score": 35,
+					"Rank": 12
+				},
+				{
+					"Id": 7,
+					"Score": 100,
+					"Rank": 3
+				},
+				{
+					"Id": 8,
+					"Score": 160,
+					"Rank": 2
+				},
+				{
+					"Id": 9,
+					"Score": 50,
+					"Rank": 6
+				},
+				{
+					"Id": 10,
+					"Score": 70,
+					"Rank": 5
+				},
+				{
+					"Id": 11,
+					"Score": 200,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 8,
+					"Rank": 2,
+					"Result": 1,
+					"TotalKills": 22,
+					"TotalDeaths": 10,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/7f9dc4a2-3dce-4aec-920b-51cfe196b67c",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/7f9dc4a2-3dce-4aec-920b-51cfe196b67c",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "7f9dc4a2-3dce-4aec-920b-51cfe196b67c",
+				"GameMode": 1
+			},
+			"HopperId": "84d7dafa-0419-4e6f-a990-4987ae57611c",
+			"MapId": "c74c9d0f-f206-11e4-8330-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "06824e0b-361e-4b09-8aaf-6468c0516f0a",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6051f51-bbb6-4ccc-8ac0-cf42b7291c76",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "59d9f6cf-5710-4037-a481-2d60208f3e19",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT8M21.8470162S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 5,
+					"Rank": 12
+				},
+				{
+					"Id": 1,
+					"Score": 80,
+					"Rank": 7
+				},
+				{
+					"Id": 2,
+					"Score": 40,
+					"Rank": 9
+				},
+				{
+					"Id": 3,
+					"Score": 35,
+					"Rank": 10
+				},
+				{
+					"Id": 4,
+					"Score": 65,
+					"Rank": 8
+				},
+				{
+					"Id": 5,
+					"Score": 150,
+					"Rank": 1
+				},
+				{
+					"Id": 6,
+					"Score": 20,
+					"Rank": 11
+				},
+				{
+					"Id": 7,
+					"Score": 125,
+					"Rank": 2
+				},
+				{
+					"Id": 8,
+					"Score": 85,
+					"Rank": 6
+				},
+				{
+					"Id": 9,
+					"Score": 120,
+					"Rank": 3
+				},
+				{
+					"Id": 10,
+					"Score": 100,
+					"Rank": 5
+				},
+				{
+					"Id": 11,
+					"Score": 105,
+					"Rank": 4
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 9,
+					"Rank": 3,
+					"Result": 1,
+					"TotalKills": 17,
+					"TotalDeaths": 7,
+					"TotalAssists": 3,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": false,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/warzone/matches/74831b44-d6cf-423c-9df8-6848e04d4911",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/74831b44-d6cf-423c-9df8-6848e04d4911",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "74831b44-d6cf-423c-9df8-6848e04d4911",
+				"GameMode": 4
+			},
+			"HopperId": "b50c4dc2-6c86-4d79-aa8a-23a65da292c6",
+			"MapId": "c9a1b0a1-f206-11e4-ad20-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "a0eb7430-76df-486a-8bea-e832f94435fb",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6de5351-3797-41e9-8053-7fb111a3a1a0",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "4515635f-683e-44ca-9341-25c17cf9626f",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT23M10.1443413S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 1000,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 829,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 23,
+					"Result": 0,
+					"TotalKills": 0,
+					"TotalDeaths": 0,
+					"TotalAssists": 0,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": null,
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/warzone/matches/8c5e6efb-dc71-4e60-8601-e69a22eb1c16",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/8c5e6efb-dc71-4e60-8601-e69a22eb1c16",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "8c5e6efb-dc71-4e60-8601-e69a22eb1c16",
+				"GameMode": 4
+			},
+			"HopperId": "b50c4dc2-6c86-4d79-aa8a-23a65da292c6",
+			"MapId": "c8d69870-f206-11e4-b477-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "2518d81d-e5ee-4acc-a1d1-40d1e26935de",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "f6de5351-3797-41e9-8053-7fb111a3a1a0",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "1e547ebd-1567-4186-bc14-e7e8aabdceab",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT17M18.1221329S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 1000,
+					"Rank": 1
+				},
+				{
+					"Id": 1,
+					"Score": 292,
+					"Rank": 2
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 14,
+					"Result": 1,
+					"TotalKills": 37,
+					"TotalDeaths": 16,
+					"TotalAssists": 7,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": null,
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/54aa7c11-c3ee-475a-ba80-0094dfe0196a",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/54aa7c11-c3ee-475a-ba80-0094dfe0196a",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "54aa7c11-c3ee-475a-ba80-0094dfe0196a",
+				"GameMode": 1
+			},
+			"HopperId": "52632154-39c4-43ae-8e8a-9bb339e6eef3",
+			"MapId": "c7b7baf0-f206-11e4-ae9a-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "d0637461-bb89-437b-a929-2294be958f83",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "a5c8c223-2418-42cf-8980-e5ceddf12232",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "8944a957-c60f-4b33-aefe-008c85c36d35",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT5M11.107S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 0,
+					"Score": 36,
+					"Rank": 2
+				},
+				{
+					"Id": 1,
+					"Score": 150,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 1,
+					"Result": 3,
+					"TotalKills": 13,
+					"TotalDeaths": 5,
+					"TotalAssists": 2,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/2611a117-69c6-45e3-82b1-f9b838c33faa",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/2611a117-69c6-45e3-82b1-f9b838c33faa",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "2611a117-69c6-45e3-82b1-f9b838c33faa",
+				"GameMode": 1
+			},
+			"HopperId": "52632154-39c4-43ae-8e8a-9bb339e6eef3",
+			"MapId": "c7b7baf0-f206-11e4-ae9a-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "8a2e3e9c-ab60-4d2e-b7e7-5bc63b856f8c",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "a2949322-dc84-45ab-8454-cf94fb28c189",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "940a78e1-b783-406d-80f8-e9a2012349a7",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT6M23.4499938S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 0,
+					"Rank": 2
+				},
+				{
+					"Id": 0,
+					"Score": 1,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 5,
+					"Result": 1,
+					"TotalKills": 23,
+					"TotalDeaths": 15,
+					"TotalAssists": 2,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		},
+		{
+			"Links": {
+				"StatsMatchDetails": {
+					"AuthorityId": "spartanstats",
+					"Path": "h5/arena/matches/f001f612-31e1-4295-befd-e45cfa158af6",
+					"QueryString": null,
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				},
+				"UgcFilmManifest": {
+					"AuthorityId": "ugc",
+					"Path": "/h5/films/f001f612-31e1-4295-befd-e45cfa158af6",
+					"QueryString": "?view=film-manifest",
+					"RetryPolicyId": "exponentialretry",
+					"TopicName": "",
+					"AcknowledgementTypeId": 0,
+					"AuthenticationLifetimeExtensionSupported": false
+				}
+			},
+			"Id": {
+				"MatchId": "f001f612-31e1-4295-befd-e45cfa158af6",
+				"GameMode": 1
+			},
+			"HopperId": "f0c9ef9a-48bd-4b24-9db3-2c76b4e23450",
+			"MapId": "caacb800-f206-11e4-81ab-24be05e24f7e",
+			"MapVariant": {
+				"ResourceType": 3,
+				"ResourceId": "8e67eeb8-90c9-4262-bae6-68a976c5da49",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"GameBaseVariantId": "257a305e-4dd3-41f1-9824-dfe7e8bd59e1",
+			"GameVariant": {
+				"ResourceType": 2,
+				"ResourceId": "479bccb3-e551-4158-8bea-596141defc71",
+				"OwnerType": 3,
+				"Owner": ""
+			},
+			"MatchDuration": "PT7M9.0358581S",
+			"MatchCompletedDate": {
+				"ISO8601Date": "2016-12-26T00:00:00Z"
+			},
+			"Teams": [
+				{
+					"Id": 1,
+					"Score": 55,
+					"Rank": 2
+				},
+				{
+					"Id": 0,
+					"Score": 75,
+					"Rank": 1
+				}
+			],
+			"Players": [
+				{
+					"Player": {
+						"Gamertag": "Iceburg 33308",
+						"Xuid": null
+					},
+					"TeamId": 1,
+					"Rank": 7,
+					"Result": 1,
+					"TotalKills": 14,
+					"TotalDeaths": 16,
+					"TotalAssists": 2,
+					"PreMatchRatings": null,
+					"PostMatchRatings": null
+				}
+			],
+			"IsTeamGame": true,
+			"SeasonId": "",
+			"MatchCompletedDateFidelity": 1
+		}
+	],
+	"Links": {
+		"Self": {
+			"AuthorityId": "spartanstats",
+			"Path": "/h5/players/iceburg%2033308/matches",
+			"QueryString": "?include-xuids=false&view=full&include-ratings=false&include-times=false",
+			"RetryPolicyId": "",
+			"TopicName": "",
+			"AcknowledgementTypeId": 0,
+			"AuthenticationLifetimeExtensionSupported": false
+		}
+	}
+}
