@@ -1,40 +1,25 @@
 package rak.discord.haloCustom.managers;
 
-import rak.discord.haloCustom.haloAPIs.HaloAPIStatsManager;
-import rak.discord.haloCustom.haloAPIs.StatsParser;
-import rak.discord.haloCustom.haloAPIs.model.stats.carnageReport.CarnageReport;
-import rak.discord.haloCustom.haloAPIs.model.stats.carnageReport.PlayerStats;
-import rak.discord.haloCustom.haloAPIs.model.stats.playerMatches.MatchId;
-import rak.discord.haloCustom.haloAPIs.model.stats.playerMatches.PlayerStatResults;
+import rak.halo.stats.haloStats.HaloStatsManager;
+import rak.halo.stats.haloStats.model.enums.Platform;
+import rak.halo.stats.haloStats.model.matches.CarnageReport;
+import rak.halo.stats.haloStats.model.player.PlayerStats;
 
 public class GameStatsManager {
 	public static final String DEFAULT_GAMERTAG = "Iceburg 33308";
 	public static final String DEFAULT_ERROR_MESSAGE = "Unable to fetch data from server!";
 	public static final String PADDING = "                                           ";
 	
+	private HaloStatsManager manager = new HaloStatsManager();
 	
 	public String getLastGameStatsMessage(String gamertag) {
-		HaloAPIStatsManager apiManager = new HaloAPIStatsManager();
 		String message = DEFAULT_ERROR_MESSAGE;
 		
 		//default a gamertag
 		gamertag = (gamertag == null) ? DEFAULT_GAMERTAG : gamertag;
 		
-		//Fetch the player results
-		String playerJson = apiManager.getMatchesForPlayer(gamertag); 
-		if (playerJson != null && !playerJson.isEmpty()){
-			StatsParser parser = new StatsParser();
-			PlayerStatResults results = parser.parseStats(playerJson);
-			
-			
-			//Fetch the carnage report
-			MatchId matchId = results.getResults()[0].getId();
-			String matchJson = apiManager.getCarnageReport(matchId);
-			if (matchJson != null && !matchJson.isEmpty()){
-				CarnageReport report = parser.parseReport(matchJson);
-				message = generateMessage(report);
-			}
-		}
+		CarnageReport report = manager.getLatestMatchResult(gamertag, Platform.PC);
+		message = generateMessage(report);
 		return message;
 	}
 
