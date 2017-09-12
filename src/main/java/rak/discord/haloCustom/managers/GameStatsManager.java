@@ -1,9 +1,12 @@
 package rak.discord.haloCustom.managers;
 
 import rak.halo.stats.haloStats.HaloStatsManager;
+import rak.halo.stats.haloStats.model.enums.GameMode;
 import rak.halo.stats.haloStats.model.enums.Platform;
 import rak.halo.stats.haloStats.model.matches.CarnageReport;
+import rak.halo.stats.haloStats.model.other.FriendlyDuration;
 import rak.halo.stats.haloStats.model.player.PlayerStats;
+import rak.halo.stats.haloStats.model.serviceRecord.ServiceRecordArray;
 
 public class GameStatsManager {
 	public static final String DEFAULT_GAMERTAG = "Iceburg 33308";
@@ -42,6 +45,26 @@ public class GameStatsManager {
 		+ player.getTotalKills() + PADDING + player.getTotalAssists() + PADDING +  player.getTotalDeaths() + "  ";
 		
 		return line;
+	}
+	
+	public String getTimmyTimeMessage(String gamertag) {
+		String message = DEFAULT_ERROR_MESSAGE;
+		
+		gamertag = (gamertag == null) ? DEFAULT_GAMERTAG : gamertag;
+		
+		ServiceRecordArray pcRecord = manager.getServiceRecord(gamertag, Platform.PC, GameMode.CUSTOM);
+		ServiceRecordArray xboxRecord = manager.getServiceRecord(gamertag, Platform.XBOX, GameMode.CUSTOM);
+		
+		FriendlyDuration pcDuration = pcRecord.getResults()[0].getResult().getCustomStats().getTotalTimePlayed();
+		FriendlyDuration xboxDuration = xboxRecord.getResults()[0].getResult().getCustomStats().getTotalTimePlayed();
+		FriendlyDuration totalDuration = pcDuration.plus(xboxDuration);
+		
+		message = "Timmy Time!"
+				+ "\nPC: " + pcDuration 
+				+"\nXbox: " + xboxDuration
+				+"\nTotal: " + totalDuration;
+		
+		return message;
 	}
 	
 	

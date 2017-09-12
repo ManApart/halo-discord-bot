@@ -9,6 +9,7 @@ import rak.discord.haloCustom.commands.command.ICommand;
 import rak.discord.haloCustom.commands.command.LastGameStatsCommand;
 import rak.discord.haloCustom.commands.command.PingCommand;
 import rak.discord.haloCustom.commands.command.SetTopicGroupCommand;
+import rak.discord.haloCustom.commands.command.TimmyTimeCommand;
 
 public class CommandManager {
 	private HashMap<String, ICommand> commands ;
@@ -26,6 +27,7 @@ public class CommandManager {
 		commandList.add(new HelpCommand());
 		commandList.add(new ClearConsoleCommand());
 		commandList.add(new LastGameStatsCommand());
+		commandList.add(new TimmyTimeCommand());
 		
 		HashMap<String, ICommand> commands = new HashMap<>();
 		for (ICommand command : commandList){
