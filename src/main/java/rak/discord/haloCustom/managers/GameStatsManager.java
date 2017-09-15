@@ -59,7 +59,7 @@ public class GameStatsManager {
 		FriendlyDuration xboxDuration = xboxRecord.getResults()[0].getResult().getCustomStats().getTotalTimePlayed();
 		FriendlyDuration totalDuration = pcDuration.plus(xboxDuration);
 		
-		message = "Timmy Time! Unlock a helmet after playing 50 hours of custom games. "
+		message = "Timmy Time! Unlock a helmet after playing 50 hours of custom games."
 				+ "\nYou're at:"
 				+ "\nPC: " + pcDuration 
 				+"\nXbox: " + xboxDuration
