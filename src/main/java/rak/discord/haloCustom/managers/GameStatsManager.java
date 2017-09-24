@@ -60,7 +60,7 @@ public class GameStatsManager {
 		FriendlyDuration totalDuration = pcDuration.plus(xboxDuration);
 		
 		message = "Timmy Time! Unlock a helmet after playing 50 hours of custom games."
-				+ "\nYou're at:"
+				+ "\n" + gamertag + " is at:"
 				+ "\nPC: " + pcDuration 
 				+"\nXbox: " + xboxDuration
 				+"\nTotal: " + totalDuration;
