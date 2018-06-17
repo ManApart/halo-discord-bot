@@ -10,8 +10,6 @@ import net.dv8tion.jda.core.exceptions.RateLimitedException;
 public class Main {
 	
 	private static JDA jda;
-	private static final String TOKEN = "MjYxNjEzNTg3MDI0MzE0MzY4.Cz3fCg.unqvl9Elt2RIMK56BCWVmXd-Cpo";
-	private static final String CHANNEL = "261603219451543552";
 	private static BotCore core;
 	
 	
@@ -19,11 +17,11 @@ public class Main {
 		try {
 			JDABuilder builder = new JDABuilder(AccountType.BOT);
 			builder.addListener(new BotListener());
-			builder.setToken(TOKEN);
+			builder.setToken(Keys.TOKEN);
 			jda = builder.buildBlocking();
 			jda.setAutoReconnect(true);
 			
-			core = new BotCore(jda, CHANNEL);
+			core = new BotCore(jda, Keys.CHANNEL);
 			core.cleanBotPosts();
 			core.startLoop();
 		} catch (RateLimitedException e) {

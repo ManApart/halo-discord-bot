@@ -27,3 +27,4 @@ nbdist/
 .svn
 .extternalToolBuilders
 target
+Keys.java
